@@ -33,6 +33,7 @@ DEBUG = True
 
 ALLOWED_HOSTS = [
     "api-mxn-blogapi.runflare.cloud",
+    "api-of9-blogapi.runflare.cloud",
     "localhost",
     "127.0.0.1",
 ]
