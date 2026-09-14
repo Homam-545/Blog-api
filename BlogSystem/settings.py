@@ -32,8 +32,7 @@ SECRET_KEY = os.getenv('DJANGO_SECRET_KEY')
 DEBUG = True
 
 ALLOWED_HOSTS = [
-    "api-mxn-blogapi.runflare.cloud",
-    "api-of9-blogapi.runflare.cloud",
+    "api-h0t-blogapi.runflare.cloud",
     "localhost",
     "127.0.0.1",
 ]
